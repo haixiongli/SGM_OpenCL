@@ -1,8 +1,8 @@
 /*---------------------------------------------------------------------------
    PP.cpp - Post Processing Code
   ---------------------------------------------------------------------------
-   Author: Charles Leech
-   Email: cl19g10 [at] ecs.soton.ac.uk
+   Author: Haixiong Li
+   Email: lihaixiong2012 [at] gmail.com
    Copyright (c) 2016 Charlie Leech, University of Southampton.
    All rights reserved.
   ---------------------------------------------------------------------------*/

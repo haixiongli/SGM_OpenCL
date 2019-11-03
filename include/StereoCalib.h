@@ -24,8 +24,8 @@
  /*---------------------------------------------------------------------------
    StereoCalib.h - Stereo Camera Calibration Function Header
   ---------------------------------------------------------------------------
-   Co-Author: Charles Leech
-   Email: cl19g10 [at] ecs.soton.ac.uk
+   Author: Haixiong Li
+   Email: lihaixiong2012 [at] gmail.com
   ---------------------------------------------------------------------------*/
 #include "ComFunc.h"
 

@@ -1,9 +1,8 @@
 /*---------------------------------------------------------------------------
    cvf.cl - OpenCL Cost Volume Filtering Kernels
   ---------------------------------------------------------------------------
-   Author: Charles Leech
-   Email: cl19g10 [at] ecs.soton.ac.uk
-   Copyright (c) 2016 Charlie Leech, University of Southampton.
+   Author: Haixiong Li
+   Email: lihaixiong2012 [at] gmail.com
    All rights reserved.
   ---------------------------------------------------------------------------*/
 

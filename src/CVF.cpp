@@ -3,11 +3,8 @@
            - Guided Image Filter
            - Box Filter
   ---------------------------------------------------------------------------
-   Co-Author: Charan Kumar
-   Email: EE14MTECH01008@iith.ac.in
-   Co-Author: Charles Leech
-   Email: cl19g10 [at] ecs.soton.ac.uk
-   Copyright (c) 2016 Charlie Leech, University of Southampton.
+   Author: Haixiong Li
+   Email: lihaixiong2012 [at] gmail.com
   ---------------------------------------------------------------------------*/
 #include "CVF.h"
 

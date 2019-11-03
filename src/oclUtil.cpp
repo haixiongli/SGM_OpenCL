@@ -10,8 +10,8 @@
  /*---------------------------------------------------------------------------
    oclUtil.cpp - OpenCL Utility Function Code
   ---------------------------------------------------------------------------
-   Co-Author: Charles Leech
-   Email: cl19g10 [at] ecs.soton.ac.uk
+   Author: Haixiong Li
+   Email: lihaixiong2012 [at] gmail.com
   ---------------------------------------------------------------------------*/
 #include "oclUtil.h"
 

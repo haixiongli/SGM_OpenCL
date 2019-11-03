@@ -10,8 +10,8 @@
  /*---------------------------------------------------------------------------
    oclUtil.h - OpenCL Utility Function Header
   ---------------------------------------------------------------------------
-   Co-Author: Charles Leech
-   Email: cl19g10 [at] ecs.soton.ac.uk
+   Author: Haixiong Li
+   Email: lihaixiong2012 [at] gmail.com
   ---------------------------------------------------------------------------*/
 #ifndef OCLUTIL_H
 #define OCLUTIL_H
